@@ -10,7 +10,6 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Jiahua notion'，
-  domain: '',
   author: 'Jiahua',
 
   // open graph metadata (optional)
