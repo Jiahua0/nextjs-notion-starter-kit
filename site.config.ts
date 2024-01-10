@@ -9,7 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Jiahua notion'，
+  name: 'Jiahua notion',
+  domin: '',
   author: 'Jiahua',
 
   // open graph metadata (optional)
